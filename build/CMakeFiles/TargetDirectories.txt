@@ -1,4 +1,0 @@
-/home/george/vim-projects/firewall-rules/build/CMakeFiles/server.dir
-/home/george/vim-projects/firewall-rules/build/CMakeFiles/client.dir
-/home/george/vim-projects/firewall-rules/build/CMakeFiles/edit_cache.dir
-/home/george/vim-projects/firewall-rules/build/CMakeFiles/rebuild_cache.dir
