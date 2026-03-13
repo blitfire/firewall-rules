@@ -1,6 +1,6 @@
 # Firewall Rules
 
-This is a project I worked on for university. A client program can send messages to a server to:
+This is a project I worked on for University. A client program can send messages to a server to:
 - Add rules
 - Check rules
 - Delete rules
